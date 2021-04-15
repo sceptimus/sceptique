@@ -1,0 +1,52 @@
+<Billet Fichier="ars-pays-loire-cas-sans-contact" TitreCourt="Le Cas sans contact">
+  <Meta>
+    <Origine>Mediapart</Origine>
+    <DateCreation>2021-03-26</DateCreation>
+    <Auteur>Chitoaxol</Auteur>
+  </Meta>
+  <Titre>L'ARS Pays de la Loire invente le Cas sans contact
+  </Titre>
+  <Chapo>Cette histoire m'a été relatée par une connaissance. Elle se passe dans une école maternelle des Pays de Loire où un parent d'enfant scolarisé en maternelle est détecté positif au Covid variant sud-africain. L'enfant testé est lui négatif.
+  </Chapo>
+  <Corps>
+Que fait l'ARS ? Elle ferme la classe pour une durée de 10 jours. Les enfants doivent rester chez eux. Leurs parents, ceux qui peuvent  télétravailler, ne bénéficient par ailleurs pas d'arrêt de travail pour s'en occuper suivant les règles en vigueur. 
+
+Si l'on comprend le caratère humaniste de ne pas séparer l'enfant de son parent testé positif, solution à prendre si l'on avait voulu lui permettre de continuer à fréquenter l'école, on a du mal à comprendre pourquoi on prive d'école toute une classe qui n'a été qu'en contact avec ce contact négatif de cas positif ? 
+
+N'aurait-il pas été suffisant de laisser en dehors de l'école seulement l'enfant concerné ? Ceci d'autant plus que l'instituteur/trice de la classe a pu continuer de fréquenter l'école en l'absence des élèves de sa classe, l'école continuant à fonctionner avec les autres classes par ailleurs, et tant mieux.
+
+Cette histoire m'a incité à visiter le site de l'ARS [[1]][ars-site] où je m'attendais à trouver des statistiques et des informations sur la propagation et la contagiosité du SARS COV-2, depuis 1 année que dure les mesures sanitaires. Mais hormis les bulletins sur les admissions à l'hôpital et les taux d'incidence basés sur les contestés tests PCR qui servent au préfet à justifier depuis plusieurs mois le port du masque en extérieur, je n'ai pas trouvé d'information sur les retours de terrain malgré tous les moyens mis en oeuvre pour le traçage. Par exemple combien d'enfants se sont révélés positifs dans une classe après détection d'un Cas positif parmi 1 parent d'un enfant de la classe ? Combien d'enfants positifs après détection d'un enfant postifif au au sein d'une classe ? Etc.
+
+Quelle déception de ne trouver sur le site aucun rapport ou étude sur le sujet (sauf erreur de ma part). Dans la section Etudes &amp; rapports, seuls 5 rapports sont publiés depuis le 28 janvier 2020, aucun n'ayant trait aux études statistiques et observationnelles de la contagiosité des enfants dans les écoles... Pourtant avec 450 personnes [[2]][ars-composition] il doit bien y avoir des resources humaines pour compiler des statistiques et argumenter les décisions précises ?
+
+Et bien sûr aucune information non plus sur les traitements maintenant pratiqués dans le monde entier avec des résultats aussi probants que les vaccins [[3]][blog-maudrux], toute la communication étant centré sur la vaccination...
+
+## Post-Scriptum
+
+Deux autres billets de blog parus sur Mediapart sont particulièrement intéressants pour comprendre "l'ADN" des ARS et la gestion de la santé par les préfectures : _Haro sur les Agences Régionales de Santé (ARS), certes…_ [[4]][haro-ars] ainsi que _10 ans après leur création, la crise de l’État, l’autre crise des ARS ?_ [[5]][10-ans-apres]
+
+## Bibliographie
+
+{biblio:1} Site web ARS Pays de La Loire
+
+[ars-site]: https://www.pays-de-la-loire.ars.sante.fr
+
+{biblio:2} L’ARS se compose de directions « métiers » (santé publique et environnementale, offre de santé et offre en faveur de l'autonomie, appui à la transformation et à l'accompagnement), de directions « supports » (ressources humaines, finances et appui au pilotage …). Elle est composée de 450 personnes
+
+[ars-composition]: https://www.pays-de-la-loire.ars.sante.fr/quoi-sert-lars
+
+{biblio:3} Le blog du Dr Gérard Maudrux
+
+[blog-maudrux]: https://blog-gerard.maudrux.fr/2021/03/25/covid-ivermectine-superieure-au-vaccin/
+
+{biblio:4} Haro sur les Agences Régionales de Santé (ARS), certes… 
+
+[haro-ars]: https://blogs.mediapart.fr/jpgallat/blog/090121/haro-sur-les-agences-regionales-de-sante-ars-certes
+
+{biblio:5} 10 ans après leur création, la crise de l’État, l’autre crise des ARS ?
+
+[10-ans-apres]: https://blogs.mediapart.fr/jeremy-chambraud-susini/blog/130520/10-ans-apres-leur-creation-la-crise-de-l-etat-l-autre-crise-des-ars
+
+STOP
+  </Corps>
+</Billet>

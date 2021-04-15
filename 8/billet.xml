@@ -1,0 +1,57 @@
+<Billet Fichier="inutilite-masque-college" TitreCourt="Du masque au collège">
+  <Meta>
+    <DateCreation>2020-11-20</DateCreation>
+    <Auteur>Chitoaxol</Auteur>    
+  </Meta>
+  <Titre>De l'(in)utilité du masque au collège
+  </Titre>
+  <Chapo>Un foyer dans un collège pourrait être l'occasion de mener une étude sur l'utilité du masque imposé à toute une génération. Qu'en sera-t-il ? D'ailleurs à quand une étude sur le sujet ? Ne devrait-on pas profiter de la situation pour mener des expériences comparatives ? Tant qu'à expérimenter sur toute la population comme actuellement, pourquoi ne pas en profiter pour faire avancer la science...
+  </Chapo>  
+  <Corps>
+    Le communiqué est passé presque inaperçu dans la presse locale, et l'arrêté préfectoral de fermeture pour 1 semaine aussi. Sans doute la chose est-elle devenue banale: "Coronavirus. Fermeture d’un collège en Vendée" [[1]][vendee-info].
+
+    Mais alors va-t-on profiter de l'occasion pour évaluer les effets du port du masque au collège et faire de la science ?
+
+    Comme d'habitude nous pouvons apprécier la précision des communiqués identiques dans toute la presse (plus de 3 cas positifs...25% du corps enseignant de l’établissement à être placé en arrêt de travail). L'arrêté prefectoral est un peu plus précis [[2]][gouv] (4 cas confirmés en 4e et 3 confirmés en 5e et 2 personnels identifiés contaminés).
+
+    Et bien sûr les fameux Cas contacts. Qui a pu inventer un tel terme d'ailleurs, traiter comme des "Cas" des potentialités de cas... Sémantiquement il serait plus correct de parler de "Contacts de cas" (ou de "Contacts" tout court). En tout cas il semble néanmoins que cette fois-ci la propagation soit effective malgré les mesures imposées de port du masque !
+
+    La bonne nouvelle c'est que les limiers de l'ARS tiennent là l'occasion de mener une étude sérieuse sur la propagation d'un foyer dans un collège, et pourquoi pas un moyen d'évaluer l'utilité de ce masque imposé à toute une génération. Car en effet on peut en douter du coup au vu de cette annonce. Une occasion d'évaluer en parallèle aussi le schéma et les lieux de diffusion (adultes vers enfants, enfant vers adultes, etc.), aura-t-on droit à une analyse post-hoc ? 
+
+    À voir mes enfants et les autres, de plus en plus irritables dans cette France renfermée et masquée, je commence à penser comme de nombreux psychologues aux retours de batons psycho-sanitaires que l'on se prépare. Qui sera responsable des effets de la politique conduite actuellement ?
+
+    Quelqu'un aurait-il eu vent d'études sérieuses en France sur un sujet où le zèle des préfectures se manifeste jusqu'à empêcher les Français de s'oxygéner en profitant de la nature ?
+
+    Les Danois bien plus pragmatiques et rigoureux essaient au moins de trouver des arguments fondés. Ainsi en va-t-il de cette étude du 18 novembre [[3]][acp-journals1] qui tente d'apporter des débuts d'indice de preuve en comparant 2 groupes de populations (pour un total de presque 5000) portant ou non le masque un temps conséquent en dehors de leur foyer, et pour lesquels ils n'ont pas pu conclure avec un niveau de confiance statistique suffisant sur un effet du masque en combinaison avec les autres mesures. L'analyse des données avec les méthodes standard pouvant tout aussi bien inclure une réduction de risque jusqu'à 46% ou au contraire un accroissement du risque jusqu'à 23% [[4]][acp-journals2]. On rêve de telles études sur le territoire national...
+
+## Post-scriptum
+
+Je viens de découvrir que la démarche que propose implicitement ce billet de comparer des établissements appliquants différents protocoles entre eux a été déjà été appliquée dans une EPHAD en région Parisienne où l'une des résidentes s'est retrouvée avec la gale, ce qui a valu à tout l'établissement un traitement par l'Ivermectine pendant la première "vague" de Covid. Les résultats de l'étude comparative à postériori sont très intéressants et jouent en faveur de ce traitement [[5]][ephad].
+
+Bien sûr dans les collèges il ne s'agit pas de comparer des traitements prophylactiques, mais l'on pourrait s'en inspirer pour tester les protocoles de l'éducation nationale (pour être plus précis imaginons 1 collège sans masque ne serait-ce que pendant les pauses, ou sans masque du tout, ou avec le sport permis en salle, etc.). Alors chiche ? 
+
+## Bibliographie
+
+[vendee-info]: https://www.vendeeinfo.fr/11/13/coronavirus-fermeture-dun-college-en-vendee/5801, 13 novembre 2020
+
+[gouv]: http://www.vendee.gouv.fr/IMG/pdf/raa_special_no2020-159_publie_le_13-11-2020.pdf
+
+[acp-journals1]: https://www.acpjournals.org/doi/10.7326/M20-6817
+
+[acp-journals2]: https://www.acpjournals.org/doi/10.7326/M20-6817
+
+[ephad]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7688272/
+
+{biblio:1} Coronavirus. Fermeture d’un collège en Vendée, 13 novembre 2020
+
+{biblio:2} recueil des actes administratifs, SPECIAL N° 2020-159 – NOVEMBRE 2020 Recueil publié le 13 novembre 2020
+
+{biblio:3} Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers, A Randomized Controlled Trial, Anals of Internal Medicine
+
+{biblio:4} Our results suggest that the recommendation to wear a surgical mask when outside the home among others did not reduce, at conventional levels of statistical significance, the incidence of SARS-CoV-2 infection in mask wearers in a setting where social distancing and other public health measures were in effect, mask recommendations were not among those measures, and community use of masks was uncommon.
+
+{biblio:5} Bénéfice de l’ivermectine : de la gale à la COVID-19, un exemple de sérendipité
+
+  </Corps>
+</Billet>
+

@@ -1,0 +1,49 @@
+<Billet Fichier="deux-plus-deux" TitreCourt="2 + 2 = 5">
+  <Meta>
+    <DateCreation>2021-02-18</DateCreation>
+    <Auteur>Chitoaxol</Auteur>    
+  </Meta>
+  <Titre>2 + 2 = 5
+  </Titre>
+  <Chapo>L'excès de zèle des préfectures est sans limite en cette période. Par exemple le dernier arrêté 21-CAB-110 sur le port du masque en Vendée contient une perle magnifique et inquiétante...
+  </Chapo>  
+  <Corps>
+Petit extrait : 
+
+_Considérant qu'au 2 février 2021, le taux de positivité en Vendée est de 4,7% (3,45% au 31 décembre 2020) ; que le seuil de vigilance est fixé à 5 % ;_
+
+On reste sans voix devant une telle logique. Ça c'est de l'interpolation : on prend 2 points sur la courbe (31 décembre et 2 février), même pas lissée, à 1 mois d'intervalle, et on en tirera plus loin un arrêté qui contredira ses propres considérations (seuil de vigilance > 5%) ! 
+
+Au secours, 2 + 2 = 5 et nous allons tous mourir, vite fermons tout, continuons de supprimer des lits à l'hôpital (100 à Nantes) et allons nous cacher au fond de la cave.
+
+Sur la courbe lissée à 7 jours ci-joint [[1]][1] on voit en rouge la droite tracée par la préfecture. Il est visible aussi que le taux lissé est repassé sous les 5% dès le 27 janvier 2021... Il est certain que si l'on remonte avant le déluge de tests PCR (*), avec un point de référence à 0, nous sommes condamnés à porter le masque en plein air toute notre vie !  
+
+![Evolution du taux de positivité (P/T = Positifs / Tests) avec les tests PCR pour le département 85 lissé à 7 jours © Données relatives aux résultats des tests virologiques COVID-19 data.gouv.fr](evolution-positivite.png)
+
+La suite de l'arrêté est de la même eau : 
+
+_Considérant que le port du masque obligatoire, pour les personnes de onze ans et plus, dans l'espace public constitue une mesure de nature à limiter le risque de circulation du virus au regard des circonstances précitées ;_
+
+On est dans la tautologie pure. En effet dans les circonstances précitées pas un seul début de preuve ou de justification scientifique sur l'utilité du port du masque en extérieur, uniquement d'autres considérants avec des arguments d'autorité du type "on est la pour vous protéger, les mesures que nous proposons sont des mesures de protection, donc on prend les mesures".
+
+Voilà où nous en sommes rendus en 2021. Seul signe d'espoir l'esprit cartésien souffle encore une brise légère sur certains tribunaux administratifs [[2]][2][[3]][3], espérons le réveil prochain de la raison.
+
+(*) il est significatif de voir que certains états pour parer aux critiques évidentes commencent d'ailleurs à imposer l'affichage du nombre de cycles sur les tests PCR, par ailleurs l'IHU de Marseille notait un taux de faux positifs dans une fourchette de 20 à 40%...
+
+## Bibliographie
+
+[1]: https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/
+
+[2]:  https://www.ladepeche.fr/2020/12/25/port-du-masque-obligatoire-partout-en-ariege-larrete-prefectoral-juge-illegal-9277428.php  
+
+[3]: https://www.midilibre.fr/2021/02/15/aveyron-larrete-prefectoral-concernant-le-port-du-masque-juge-illegal-9375058.php
+
+{biblio:1} Données relatives aux résultats des tests virologiques COVID-19 data.gouv.fr
+
+{biblio:2} Le tribunal administratif de Toulouse a jugé illégale la décision de rendre le port du masque obligatoire sur tout le territoire de l’Ariège, 25/12/2020
+
+{biblio:3} Aveyron : le port du masque obligatoire dans tout l'espace public déclaré illégal par le tribunal, 15/02/2021
+
+  </Corps>
+</Billet>
+

@@ -1,0 +1,54 @@
+<Billet Fichier="vendee-indicateur-covid" TitreCourt="La Vendée dans le rouge pour la COVID19">
+  <Meta>
+    <DateCreation>2020-10-28</DateCreation>
+    <Auteur>Chitoaxol</Auteur>    
+  </Meta>
+  <Titre>La Vendée dans le rouge pour la COVID19, cet indicateur que l'on ne vous montrera pas
+  </Titre>
+  <Chapo>Les indicateurs utilisés dans les arrêtés préfectoraux évoluent d'arrêté en arrêté, pourtant il en est un qui n'augmente pas dans toute la France depuis des années, voir qui est plutôt en diminution, et qui est pourtant révélateur de la panique actuelle...
+  </Chapo>  
+  <Corps>
+    Depuis 1 mois les arrêtés se succèdent comme les feuilles mortes à l'automne, de plus en plus baroques (par ex. port du masque en forêt ou sur la plage) et de plus en plus angoissants [[1]][prefecture]. Tous ont en commun d'agiter le seuil d'alerte d'incidence ou le taux d'incidence (nombre de cas positifs pour 100000 habitants).
+
+    Exemple : "Au 15 octobre 2020, le taux d’incidence a franchi le seuil de 50/100 000 et s’élevait à 76,6/100 000 habitants (contre 44,1 à la fin du mois de septembre)"
+
+    Petite innovation ces derniers temps, devant le scepticisme concernant un indicateur directement lié à la quantité de tests effectués et mêlant indifféremment individus en bonne santé et malades symptomatiques, les derniers arrêtés mentionnent également le taux de positivité. C'est de bonne guerre, et nul doute qu'avec un peu d'effort et dans un soucis de transparence, ils intégreront un jour le nombre de cycle d'amplification des dits tests, pour lever toute critique concernant leur sensibilité et les possibilités de manipulation. Et quand bien même cela ne conviendrait pas, l'on nous ajoutera au choix, le taux d'occupation des lits de réanimation, de soins intensifs ou de soins continus, de décès, même si celui-ci semble être passé au second plan, ou pourquoi pas bientôt le taux de présence du virus dans les eaux usées, etc. Cette escalade sans fin permet de justifier des mesures sanitaires de plus en plus liberticides, toujours sans aucune évaluation d'efficacité ni débat contradictoire public.
+
+    Il est un indicateur cependant dont on parle rarement, et sur lequel pourtant l'on ferait bien de se pencher : c'est le nombre de lits d'urgence (réanimation, soins intensifs, soins continus) par 100000 habitants (ou son corollaire, le nombre d'habitants par lit) !
+
+    La carte reproduite ci-dessous [[2]][lits] montre ce qu'il en est pour la Vendée (en nombre de lits de réanimation): le département est dans le rouge, rouge écarlate même. Le même raisonnement s'appliquerait  à de nombreux départements, indépendamment du retard au niveau national vu l'accroissement et le vieillissement de la population (cf mon précédent billet sur le sujet).
+    
+![Nombre d'habitants pas lit de réanimation © Infographie de François BELLAIS](habitants-par-lit.png)
+
+    J'ai pu trouver une feuille de tableur publiée par la DREES [[3]][drees] (période 2013 - 2018, je n'ai pas trouvé plus récent).
+    
+    Ainsi
+
+    En 2018 pour 675000 habitants environ la Vendée compte 18 lits de réanimation soit 1 lit pour 37500 habitants
+
+    à titre de comparaison en 2018 pour 1400000 habitants environ la Loire Atlantique compte 87 lits de réanimation soit 1 lit pour 16000 habitants.
+
+    Il semble ainsi que la Vendée soit très en deça de la moyenne des autres départements de population supérieure au 1/2 million.
+
+    Il faudrait aussi tenir compte de l'accroissement de population durant les périodes de vacances dans les départements touristiques et se demander si cet afflux à une incidence sur les besoins de la population concernée.
+
+    Alors certes il est tentant de culpabiliser la population et de tout faire reposer sur des comportements individuels, mais il est tout aussi légitime de se demander sur quels critères sont construites les capacités hospitalières ? Un peu de transparence sur la gestion des lits d'urgence et sur les statistiques de ces dernières années pourrait nous éclairer (taux d'occupation moyen, variations saisonnières, type d'utilisation, allocation géographiques des capacités, etc.) dans le contexte actuel.
+
+PS: il semble qu'il n'y ait pas beaucoup de renforts à attendre du côté des cliniques privées, cf [https://www.le-guide-sante.org/actualites/cliniques-coronavirus/carte_de_france](https://www.le-guide-sante.org/actualites/cliniques-coronavirus/carte_de_france)
+
+## Bibliographie
+
+[prefecture]: http://www.vendee.gouv.fr/recueil-des-actes-administratifs-2020-r947.html
+
+[lits]: https://www.data.gouv.fr/fr/datasets/repartition-des-lits-de-reanimation-par-departement/
+
+[drees]: https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/article/nombre-de-lits-de-reanimation-de-soins-intensifs-et-de-soins-continus-en-france
+
+{biblio:1} Arrêtés préfectoraux
+    
+{biblio:2} Nombre d'habitants pas lit de réanimation, auteur : François BELLAIS à partir de données publiques
+
+{biblio:3} Nombre de lits de réanimation, de soins intensifs et de soins continus en France, fin 2013 et 2018, fichier drees_lits_reanimation_2013-2018.xlsx
+  </Corps>
+</Billet>
+

@@ -1,0 +1,29 @@
+<Billet Fichier="capacite-hospitaliere" TitreCourt="Capacité hospitalière">
+  <Meta>
+    <Origine>https://blogs.mediapart.fr/chitoaxol/blog/240920/capacite-hospitaliere-en-berne</Origine>
+    <DateCreation>2020-09-24</DateCreation>
+    <Auteur>Chitoaxol</Auteur>    
+  </Meta>
+  <Titre>Capacité hospitalière en berne
+  </Titre>
+  <Chapo>Lits de réanimation, les chiffres parlent d'eux-même, où est passé le bon sens
+  </Chapo>  
+  <Corps>
+5432 pauvres petits lits de réanimation (adultes et enfants) en 2018 en France entière [[1]][drees], chiffre qui n'a quasiment pas bougé depuis 2013 avec 5334 lits, contre plus de 20000 en Allemagne tel qu'on peut lire ailleurs (je n'ai pas de source).
+
+98 lits de réanimations créés alors que la population de 65 ans et plus augmentait de 2,15 millions ! [[2]][insee].
+
+NB: ce billet est la reprise d'un commentaire laissé sur le fil de "Covid-19: Véran annonce un nouveau tour de vis" 
+
+## Bibliographie
+
+[drees]: https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/article/nombre-de-lits-de-reanimation-de-soins-intensifs-et-de-soins-continus-en-france
+
+[insee]: https://www.insee.fr/fr/statistiques/3312958
+
+{biblio:1} fichier drees_lits_reanimation_2013-2018.xlsx
+
+{biblio:2} Pyramide des âges 2020 - France et France métropolitaine
+  </Corps>
+</Billet>
+

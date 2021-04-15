@@ -1,0 +1,200 @@
+body {
+  margin: 20px 40px;
+  background-image: url(chevaux.jpg);
+  background-position: middle; 
+  background-repeat: no-repeat;
+  background-size: auto 200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.biblio {
+  color: #678;
+}
+
+p.illustration {
+  text-align: center;
+  margin: 30px 0 10px 0;
+}
+
+p.caption {
+  margin: 10px 0 20px 0;
+  color: #999;
+  width: 60%;
+  text-align: justify;
+  margin-left: 20%;
+}
+
+img {
+  max-width: 100%;
+}
+
+#nav ul {
+  margin: 0;
+  padding: 0;  
+  list-style-type: none;
+}
+
+#nav li {
+  line-height: 1.25;
+  font-size: 1.2em;
+  margin-bottom: 12px;
+}
+
+#nav a {
+  color: #cd2653;
+}
+
+#jump-top a, #jump-bottom a {
+  color: #cd2653;
+}
+
+#submit {
+  color: white;
+  background-color: gray;
+  border: none;
+  font-size: 1.2em;
+  
+}
+
+header {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas: "title about";
+  grid-gap: 10px;
+  align-items: center;
+  min-height: 200px;
+}
+
+#title h1 {
+  color: white;
+  position: relative;
+  left: 60px;
+  top: -80px;
+}
+
+#about p {
+  text-decoration: none;
+  position: relative;
+  top: -80px;
+  font-size: 2em;
+  left: 120px;
+}
+ 
+#about a {
+  color: white;  
+} 
+  
+#title {
+  grid-area: title;
+  margin-top: -10px;
+}
+  
+#about {
+  margin-top: -10px;
+  grid-area: about;
+}
+
+#main {
+  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1.1em;
+  display: grid;
+  grid-template-columns: auto; 
+  grid-template-rows: 38px auto 38px;
+  grid-template-areas: 
+    "down"
+    "content"
+    "up";  
+  justify-content: center;
+}
+
+#down {
+  grid-area: down;
+  text-align:center;
+}
+
+#up {
+  grid-area: up;
+  text-align:center;
+}
+
+#content {
+  max-width: 940px;  
+  border: solid 1px #EEE;
+  padding: 0 20px;
+  grid-area: content;
+}
+
+#jump-top {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  grid-template-rows: min-content;
+  grid-template-areas:
+    "prev . next"
+}
+
+.previous {
+  grid-area: prev;
+}
+
+.next {
+  grid-area: next;
+  text-align: right;
+}
+
+#jump-bottom {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  grid-template-rows: auto min-content auto;
+  grid-template-areas:
+    ". up ."
+    "prev . next"
+    "nav nav nav";
+}
+
+#nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;  
+  grid-template-areas: 
+    "index related";  
+}
+
+#index {
+  grid-area: index;
+  margin-left: 20px;
+}
+
+#related {
+  grid-area: related;
+}
+
+@media print {  
+  #header {
+    min-height: 0;
+  }
+  #title h1, #about p {
+    display:none;
+  }
+  header, #jump-top, #jump-bottom, #nav, #down, #up {
+    display: none;
+  }
+  #content {
+    border: none;
+    background-color: transparent;
+    font-size: 12pt;
+    font-family:'Times New Roman',Times,serif;
+    color:#000000;
+    margin-left:auto;
+    margin-right:auto;
+    width: auto;
+    text-align: justify;  
+  }
+  #bibliography {
+    text-align: left;
+  }
+}  
+  

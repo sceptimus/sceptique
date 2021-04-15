@@ -1,0 +1,49 @@
+<Billet Fichier="erreur-calcul-prefecture" TitreCourt="Erreur de calcul à la préfecture">
+  <Meta>
+    <DateCreation>2021-03-09</DateCreation>
+    <Auteur>Chitoaxol</Auteur>    
+  </Meta>
+  <Titre>Erreur de calcul à la préfecture
+  </Titre>
+  <Chapo>La préfecture de Vendée prolonge encore l'obligation de port du masque sur tout le territoire du département sans discernement pour 3 semaines. Cette habitude devient préoccupante, d'autant plus que l'arrêté s'appuie sur des chiffres non sourcés et fantaisistes. Est-ce légal de prendre un arrêté basé sur des chiffres faux ?
+  </Chapo>  
+  <Corps>
+Voici le passage en question :
+
+_Considérant qu'au 3 mars 2021, le taux de positivité est de 5% ; que le seuil de vigilance est fixé à 5 %;_
+
+Au 3 mars (cf. image) pour le département de la Vendée 85 (cf Source) on est à :
+
+Positifs = 133 (toutes classes d’âge, dernière rangée)
+Testés = 3137
+
+Soit le taux de positivité = 133/3137 * 100 = 4,23 % 
+
+Rien à voir donc avec les 5% de l'arrêté 21-CAB-174 portant renouvellement de l'obligation de port du masque pour les personnes de onze ans et plus sur la totalité du territoire du département de la Vendée [[1]][vendee]. 
+
+![Taux de positivité quotidien département (extrait) © Jeu de données Santé Publique France](sp-pos-quot-dep-2021-03-08-17h20-3-mars.png)
+
+Notons qu'un autre facteur troublant est la disparité nationale entre ces mesures. Dans la Marne (51) par exemple, dont les taux de positivité sont supérieurs eux à 5% sur la même période, les arrêtés préfectoraux sont bien plus nuancés puisqu'ils énumèrent les rues où s'applique l'obligation dans les communes de plus de 10000 habitants ainsi que les lieux à forte densité concernés [[2]][marne] (et Lire l'arrêté préfectoral du 10 février 2021).
+
+Quelle est la légalité de ces arrêtés qui nous empêchent de respirer depuis plusieurs mois sans montrer de résultats significatifs et qui s'apparentent plus à des mesures de changement comportemental de type sectaire ? Pourquoi le port du masque a été saucissonné ainsi à la discrétion des préfets et sans débat public de l'intérêt médical tenant compte des données scientifiques acquises depuis 1 an ? Pourquoi aucun parti politique local ou aucune association locale (à ma connaissance) ne s'insurge d'une telle dérive ?
+
+## Source  
+
+Données relatives aux résultats des tests virologiques COVID-19 SI-DEP : [https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/](https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/), Fichier : sp-pos-quot-dep-2021-03-08-17h20.csv (chargé le 9 mars 2021)
+
+PS: et ce sans entrer dans la polémique sur la validité de l'approche (tests PCR au nombre de cycle exagéré et faussement positifs), l'intérêt médical de la chose (ex: contagiosité par classes d'âges des asymptomatiques), l'absence de travaux des ARS justifiant en quoi que ce soit le port du masque en extérieur malgré tout le recul et les études comparatives (cf. article international de Ioannidis entre autres), les obstructions à soigner les malades avec les traitements repositionnés existants... Voir aussi ce précédent billet sur les approximations précédentes de la préfecture. 
+
+## Bibliographie
+
+[vendee]: http://www.vendee.gouv.fr/IMG/pdf/special_2021-42.pdf
+
+[marne]:  https://www.marne.gouv.fr/Actualites/COVID-19-Point-sur-la-situation-dans-la-Marne/Mesures-en-vigueur-pour-lutter-contre-la-propagation-de-l-epidemie-de-Covid-19
+
+{biblio:1} Arrêté N° 21-CAB-174 portant renouvellement de l'obligation de port du masque pour les personnes de onze ans et plus sur la totalité du territoire du département de la Vendée, 5 mars 2021
+
+{biblio:2} Mesures en vigueur pour lutter contre la propagation de l’épidémie de Covid -19, Les services de l'État 
+dans la Marne, mis à jour régulièrement
+
+  </Corps>
+</Billet>
+

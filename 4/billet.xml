@@ -1,0 +1,35 @@
+<Billet Fichier="fusee-quatre-cent-mille" TitreCourt="Fusée">
+  <Meta>
+    <Origine>https://blogs.mediapart.fr/chitoaxol/blog/311020/fusee-400000</Origine>
+    <DateCreation>2020-10-31</DateCreation>
+    <Auteur>Chitoaxol</Auteur>    
+  </Meta>
+  <Titre>Fusée ... 400000
+  </Titre>
+  <Chapo>Réflexion en forme d'hommage Baudelarien sur les nombres et l'angoisse
+  </Chapo>  
+  <Corps>
+    Petite question :
+
+* considérant qu'il meurt environ 600000 personnes en France chaque année (chiffre 2019)
+* sachant que quatre coronavirus en circulation sont considérés comme source d'infections bénignes [[1]][wiki] qui seraient la cause de 15 à 30 % des rhumes courants
+* considérant que "l'on estime que les adultes souffrent de deux à cinq rhumes par année et que c'est l'une des causes principales des journées d'absence au travail." [[2]][cchst]
+
+que se passerait-t-il si l'on testait tous les défunts à l'aide d'un test RT-PCR ultra-sensible (amplification) utilisant des amorces tirées du génome de l'une de ces souches (229E, NL63, OC43 et HKU1) ?
+
+qu'en concluerait-on ?
+
+PS: pour une explication du chapô voir [ici](https://www.sitaudis.fr/Parutions/fusees-de-charles-baudelaire.php)
+
+## Bibliographie
+
+[wiki]: https://fr.wikipedia.org/wiki/Coronavirus
+
+[cchst]: https://www.cchst.ca/oshanswers/diseases/common_cold.html
+
+{biblio:1} Coronavirus
+
+{biblio:2} Le rhume
+  </Corps>
+</Billet>
+
